@@ -3,7 +3,7 @@ ThinkPad T440p Hackintosh Catalina (10.15.7) Clover config.plist + kexts
 
 # 硬件配置
 
-![image-20201010081126000](/Users/tosixjuly/Library/Application Support/typora-user-images/image-20201010081126000.png)
+![image](https://github.com/lighterEB/ThinkPad-T440p/tree/main/png1.png)
 
 CPU：i7-4770HQ （BGA转PGA）
 
