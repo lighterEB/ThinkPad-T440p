@@ -1,6 +1,21 @@
 # ThinkPad-T440p
 ThinkPad T440p Hackintosh Catalina (10.15.7) Clover config.plist + kexts
 
+# 更新
+
+* **2020-10-11**：增加alc_fix文件夹，其中install.sh用于修复耳机麦克风二合一插孔，保证3.5mm耳机正常使用。使用方法如下：
+
+  打开终端输入：
+
+  ```bash
+  sudo mount -uw /
+  killall Finder
+  cd alc_fix/
+  sudo sh install.sh
+  ```
+
+  
+
 # 硬件配置
 
 ![image](https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-Catalina15.7.png)
