@@ -1,5 +1,5 @@
 # ThinkPad-T440p
-ThinkPad T440p Hackintosh Catalina (10.15.7) Clover config.plist + kexts
+ThinkPad T440p Hackintosh Catalina (10.15.7) Clover config.plist + kexts</br>
 ThinkPad T440p Hackintosh BigSur (11.0 beta10) OpenCore config.plist + kexts
 
 # 更新
