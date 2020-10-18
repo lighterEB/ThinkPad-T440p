@@ -71,7 +71,7 @@ CPU：i7-4770HQ （BGA转PGA）
 
 # 说明
 
-将系统版本对应的文件夹重命名为EFI拷贝到系统EFI分区使用，请勿将两个EFI文件夹同时放进EFI分区以免产生错误。如果您的bios已经通过刷写解锁CFG Lock，请将
+将系统版本对应的文件夹重命名为EFI拷贝到系统EFI分区使用，请勿将两个EFI文件夹同时放进EFI分区以免产生错误。如果您的bios已经通过刷写解锁CFG Lock，请将如下两个选项的勾选去除。
 
 > EFI-OC/OC/config.plist->Kernel->Quirks->AppCpuPmCfgLock<False/>
 >
