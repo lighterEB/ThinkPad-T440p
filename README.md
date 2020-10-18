@@ -29,6 +29,7 @@ ThinkPad T440p Hackintosh BigSur (11.0 beta10) OpenCore config.plist + kexts
 
 # 硬件配置
 ![image](https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-Catalina15.7.png)
+<img src="https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-Catalina15.7.png" style="width:200px height:300px" />
                                   <div align='center'><span style="color:red">Catalina 10.15.7</span></div>
 ![image](https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-BigSur-Beta10.png)</br>
                                  <div align='center'>Big Sur 11.0 beta10</div>
