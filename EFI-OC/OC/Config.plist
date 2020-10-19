@@ -143,13 +143,13 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>Instant Wake Fix (_PRW 0x6D, 0x04 to 0)</string>
+				<string>Instant Wake Fix 1 (_PRW 0x0d, 0x03) to (0x0d,0x00)</string>
 				<key>Count</key>
 				<integer>0</integer>
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>EgYCCm0KBA==</data>
+				<data>EhUDCg0KA14=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
@@ -157,7 +157,33 @@
 				<key>OemTableId</key>
 				<data></data>
 				<key>Replace</key>
-				<data>EgYCCm0KAA==</data>
+				<data>EhUDCg0KAF4=</data>
+				<key>ReplaceMask</key>
+				<data></data>
+				<key>Skip</key>
+				<integer>0</integer>
+				<key>TableLength</key>
+				<integer>0</integer>
+				<key>TableSignature</key>
+				<data></data>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>Instant Wake Fix 2 (_PRW 0x0D, 0x04 to 0)</string>
+				<key>Count</key>
+				<integer>0</integer>
+				<key>Enabled</key>
+				<true/>
+				<key>Find</key>
+				<data>EgYCCg0KBA==</data>
+				<key>Limit</key>
+				<integer>0</integer>
+				<key>Mask</key>
+				<data></data>
+				<key>OemTableId</key>
+				<data></data>
+				<key>Replace</key>
+				<data>EgYCCg0KAA==</data>
 				<key>ReplaceMask</key>
 				<data></data>
 				<key>Skip</key>
