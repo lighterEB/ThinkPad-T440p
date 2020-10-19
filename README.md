@@ -1,5 +1,6 @@
 # ThinkPad-T440p
-ThinkPad T440p Hackintosh Catalina (10.15.7) Clover config.plist + kexts
+ThinkPad T440p Hackintosh Catalina (10.15.7) Clover config.plist + kexts</br>
+ThinkPad T440p Hackintosh BigSur (11.0 beta10) OpenCore config.plist + kexts
 
 # 更新
 
@@ -27,8 +28,10 @@ ThinkPad T440p Hackintosh Catalina (10.15.7) Clover config.plist + kexts
   
 
 # 硬件配置
-
-![image](https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-Catalina15.7.png)
+<img src="https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-Catalina15.7.png" style="width:200px height:300px" />
+                                  <div align='center'>Catalina 10.15.7</div></br></br>
+<img src="https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-BigSur-Beta10.png" style="width:200px height:300px" />
+                                 <div align='center'>Big Sur 11.0 beta10</div>
 
 CPU：i7-4770HQ （BGA转PGA）
 
@@ -70,7 +73,7 @@ CPU：i7-4770HQ （BGA转PGA）
 
 # 说明
 
-将系统版本对应的文件夹重命名为EFI拷贝到系统EFI分区使用，请勿将两个EFI文件夹同时放进EFI分区以免产生错误。如果您的bios已经通过刷写解锁CFG Lock，请将
+将系统版本对应的文件夹重命名为EFI拷贝到系统EFI分区使用，请勿将两个EFI文件夹同时放进EFI分区以免产生错误。如果您的bios已经通过刷写解锁CFG Lock，请将如下两个选项的勾选去除。
 
 > EFI-OC/OC/config.plist->Kernel->Quirks->AppCpuPmCfgLock<False/>
 >
