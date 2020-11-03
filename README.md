@@ -4,6 +4,8 @@ ThinkPad T440p Hackintosh BigSur (11.0 beta10) OpenCore config.plist + kexts
 
 # 更新
 
+* **2020-11-03**: 升级OpenCore到0.6.3，升级MacOs到11.0.1beta。
+
 * **2020-10-19**: 修复MacOs 11.0 下睡眠及时唤醒的问题。
 
 * **2020-10-18**: 添加[OpenCore（0.6.2)](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.2)引导文件用于安装引导MacOs 11.0（Big Sur beta10），更新[ALCPlugFix](https://github.com/Sniki/ALCPlugFix/releases/tag/v1.7)，在Big Sur下使用方法为：
@@ -32,8 +34,8 @@ ThinkPad T440p Hackintosh BigSur (11.0 beta10) OpenCore config.plist + kexts
 # 硬件配置
 <img src="https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-Catalina15.7.png" style="width:200px height:300px" />
                                   <div align='center'>Catalina 10.15.7</div></br></br>
-<img src="https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-BigSur-Beta10.png" style="width:200px height:300px" />
-                                 <div align='center'>Big Sur 11.0 beta10</div>
+<img src="https://github.com/lighterEB/ThinkPad-T440p/blob/main/t440p-BigSur-11.0.1beta.png" style="width:200px height:300px" />
+                                 <div align='center'>Big Sur 11.0.1 beta</div>
 
 CPU：i7-4770HQ （BGA转PGA）
 
