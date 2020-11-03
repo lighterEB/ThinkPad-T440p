@@ -827,6 +827,8 @@
 				<data>AACQAA==</data>
 				<key>framebuffer-patch-enable</key>
 				<data>AQAAAA==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x3,0x0)</key>
 			<dict>
@@ -1748,7 +1750,7 @@
 			<key>MLB</key>
 			<string></string>
 			<key>ProcessorType</key>
-			<integer>0</integer>
+			<integer>1797</integer>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>ROM</key>
