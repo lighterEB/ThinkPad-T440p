@@ -3,6 +3,7 @@ ThinkPad T440p Hackintosh Catalina (10.15.7) Clover config.plist + kexts</br>
 ThinkPad T440p Hackintosh BigSur (11.0 beta10) OpenCore config.plist + kexts
 
 # 更新
+* **2020-12-21**: 该仓库不再更新维护
 
 * **2020-11-03**: 升级OpenCore到[0.6.3](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.3)，升级MacOs到11.0.1beta。
 
@@ -68,7 +69,7 @@ CPU：i7-4770HQ （BGA转PGA）
 
 # 未知问题
 
-* 拓展坞（待测）
+* 拓展坞（视频接口无法使用，可能需要patch视频接口）
 * SD卡读卡器（待测，可能无法使用）
 
 # 描述
